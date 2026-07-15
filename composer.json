@@ -3,7 +3,7 @@
     "type": "project",
     "description": "MerchPopRika - K-pop Photocard Marketplace (UAS Pemrograman Web 2)",
     "require": {
-        "php": "^8.1",
+        "php": "^8.2",
         "laravel/framework": "^11.0",
         "laravel/tinker": "^2.9"
     },
