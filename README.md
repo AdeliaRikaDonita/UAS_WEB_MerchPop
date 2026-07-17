@@ -20,7 +20,6 @@ Aplikasi web marketplace jual-beli photocard, album, dan merch K-pop antar fans.
 - `order_items` (rincian item per pesanan)
 - `reviews` (ulasan toko dari pembeli)
 
-## Cara Menjalankan (di laptop kamu)
 
 > **Catatan**: folder `vendor/` sengaja tidak disertakan (praktik standar Laravel). Jalankan `composer install` sekali untuk menarik framework Laravel-nya.
 
@@ -101,7 +100,7 @@ Atau langsung daftar akun baru lewat halaman **Register** (pilih role Pembeli/Pe
 
 ---
 
-## 🚀 Deploy ke Railway (Opsional — untuk poin bonus)
+## 🚀 Deploy ke Railway 
 
 Repo ini sudah menyertakan `nixpacks.toml` dan `Procfile` supaya proses build & start otomatis terdeteksi Railway.
 
